@@ -1,2 +1,2 @@
-# rock_paper_sciessor
-rock_paper_sciessor game by noman
+# rock_paper_scissors
+rock_paper_scissors game by noman
